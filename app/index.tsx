@@ -42,7 +42,7 @@ export default function HomeScreen() {
         <View style={styles.infoGrid}>
           <View style={styles.infoRow}>
             <Text style={[styles.infoLabel, { color: theme.colors.primaryText }]}>Name</Text>
-            <Text style={[styles.infoValue, { color: theme.colors.secondaryText }]}>Youssef El Amrani</Text>
+            <Text style={[styles.infoValue, { color: theme.colors.secondaryText }]}>Yassine Zairi</Text>
           </View>
           <View style={styles.infoRow}>
             <Text style={[styles.infoLabel, { color: theme.colors.primaryText }]}>CIN</Text>
